@@ -1,0 +1,1 @@
+const cadastro = [{nome: "joão", idade: 25, telefone: "00 0000 000", amigos: ["João", "maria", "leonardo", "josé"]}]
